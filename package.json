@@ -1,0 +1,20 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "firstproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "sairam"
+  },
+  "keywords": [
+    "ram"
+  ],
+  "author": "sairam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0"
+  }
+}
